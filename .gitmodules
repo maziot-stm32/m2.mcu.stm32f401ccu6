@@ -1,3 +1,6 @@
 [submodule "sdk/sample/f401cc.uart.printf"]
 	path = sdk/sample/f401cc.uart.printf
 	url = git@github.com:maziot-stm32/f401cc.uart.printf.git
+[submodule "sdk/sample/f401cc.gpio.led"]
+	path = sdk/sample/f401cc.gpio.led
+	url = git@github.com:maziot-stm32/f401cc.gpio.led.git
